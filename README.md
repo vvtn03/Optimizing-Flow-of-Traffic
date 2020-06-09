@@ -1,4 +1,4 @@
-# Optimizing-Flow-of-Traffic USing Vehicle Density
+# Optimizing-Flow-of-Traffic BY using Vehicle Density
 
 phase 1:Traffic Density Detection Using Color Detection algorithm
 Phase 2:Implementing Slab Based Algorithm To Optimize The Flow of Traffic
