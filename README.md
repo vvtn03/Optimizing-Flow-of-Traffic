@@ -3,6 +3,33 @@
 phase 1:Traffic Density Detection Using Color Detection algorithm
 Phase 2:Implementing Slab Based Algorithm To Optimize The Flow of Traffic
 
+Traffic  Density Detection
+
+
+
+![](Images/IMG1.jpeg)
+
+
+
+LIGHT TRAFFIC
+
+
+![](Images/IMG2.jpeg)
+
+
+
+HEAVY TRAFFIC
+
+
+
+![](Images/IMG3.jpeg)
+
+
+
+MEDIUM TRAFFIC
+
+
+
 
 SLAB BASED ALGORITHM
 
